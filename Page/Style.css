@@ -1,0 +1,19 @@
+body{
+    background-image: url("crop.png");
+    background-attachment: fixed;
+}
+h2 {
+    background: rgba(39,47,51, 0.5);
+    border: 5px cornflowerblue;
+    color: white;
+    font-style: italic;
+    font-stretch: condensed;
+    padding: 60px;
+}
+div{
+    background: rgba(39,47,51, 0.5);
+    border: 5px cornflowerblue;
+    color: white;
+    font-size: small;
+    padding: 60px;
+}

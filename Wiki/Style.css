@@ -1,0 +1,56 @@
+h1{
+    color: black;
+    font-size: 200%;
+    border-bottom: 2px solid maroon;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+h2{
+    border-bottom: 2px solid maroon;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+}
+div{
+    margin: 0;
+    font-size: 100%;
+    font-style: italic;
+    color: dimgray;
+}
+span{
+    font-stretch: inherit;
+    font-weight: bold;
+    color: black;
+    font-size: medium;
+}
+p{
+    font-size: large;
+    font-style: normal;
+    color: darkslategray;
+}
+aside{
+    display: table;
+    list-style-type: decimal;
+    background: rgba(25,4,51, 0.5);
+    border: 1px solid #a2a9b1;
+    color: white;
+    font-size: small;
+    padding: 20px;
+    text-decoration: unset;
+}
+ul{
+    list-style-type: decimal;
+}
+.disc{
+    font-size: large;
+    font-style: normal;
+    color: darkslategray;
+    list-style-type: disc;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
